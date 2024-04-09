@@ -1,2 +1,3 @@
 # javascript
-this is javascript repository
+this is javascript repositor git
+
